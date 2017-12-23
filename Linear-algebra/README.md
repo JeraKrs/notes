@@ -13,8 +13,8 @@
 * [第二讲 矩阵消元](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture02.ipynb)
 * [第三讲 乘法和逆矩阵](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture03.ipynb)
 * [第四讲 A的LU分解](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture04.ipynb)
-* [第五讲 转置-置换-向量R]()
-* [第六讲 列空间和零空间]()
+* [第五讲 转置-置换-向量R](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture05.ipynb)
+* [第六讲 列空间和零空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture06.ipynb)
 
 ## 参考资料
 
