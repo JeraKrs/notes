@@ -18,7 +18,13 @@
 * [第七讲 求解Ax=0：主变量、特解](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture07.ipynb)
 * [第八讲 求解Ax=0：可解性和解的结构](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture08.ipynb)
 * [第九讲 线性相关性、基、维数](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture09.ipynb)
-* [第十讲 四个基本子空间]()
+* [第十讲 四个基本子空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture10.ipynb)
+* [第十一讲 矩阵空间、秩1矩阵和小世界图]()
+* [第十二讲 图和网络]()
+* [第十三讲 复习一]()
+* [第十四讲 正交向量与子空间]()
+* [第十五讲 子空间投影]()
+* [第十六讲 投影矩阵和最小二乘]()
 
 ## 参考资料
 
