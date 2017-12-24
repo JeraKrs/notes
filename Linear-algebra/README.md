@@ -17,7 +17,7 @@
 * [第六讲 列空间和零空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture06.ipynb)
 * [第七讲 求解Ax=0：主变量、特解](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture07.ipynb)
 * [第八讲 求解Ax=0：可解性和解的结构](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture08.ipynb)
-* [第九讲 线性相关性、基、维数]()
+* [第九讲 线性相关性、基、维数](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture09.ipynb)
 * [第十讲 四个基本子空间]()
 
 ## 参考资料
