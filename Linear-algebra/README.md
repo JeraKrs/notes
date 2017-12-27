@@ -21,8 +21,8 @@
 * [第十讲 四个基本子空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture10.ipynb)
 * [第十一讲 矩阵空间、秩1矩阵和小世界图](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture11.ipynb)
 * [第十二讲 图和网络](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture12.ipynb)
-* [第十三讲 复习一]()
-* [第十四讲 正交向量与子空间]()
+* [第十三讲 复习一](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture13.ipynb)
+* [第十四讲 正交向量与子空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture14.ipynb)
 * [第十五讲 子空间投影]()
 * [第十六讲 投影矩阵和最小二乘]()
 
