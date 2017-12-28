@@ -25,7 +25,7 @@
 * [第十四讲 正交向量与子空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture14.ipynb)
 * [第十五讲 子空间投影](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture15.ipynb)
 * [第十六讲 投影矩阵和最小二乘](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture16.ipynb)
-* [第十七讲 正交矩阵和Gram-Schmidt正交化]()
+* [第十七讲 正交矩阵和Gram-Schmidt正交化]((http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture17.ipynb)
 * [第十八讲 行列式及其性质]()
 * [第十九讲 行列式公式和代数余子式]()
 * [第二十讲 克拉默法则、逆矩阵、体积]()
