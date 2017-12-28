@@ -5,7 +5,7 @@
 
 ## 主要内容
 
-麻省理工线性代数公开课笔记，[Nbviewer]()。
+麻省理工线性代数公开课笔记，使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer]()中查看。
 
 ## 目录
 
@@ -23,10 +23,20 @@
 * [第十二讲 图和网络](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture12.ipynb)
 * [第十三讲 复习一](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture13.ipynb)
 * [第十四讲 正交向量与子空间](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture14.ipynb)
-* [第十五讲 子空间投影]()
-* [第十六讲 投影矩阵和最小二乘]()
+* [第十五讲 子空间投影](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture15.ipynb)
+* [第十六讲 投影矩阵和最小二乘](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture16.ipynb)
+* [第十七讲 正交矩阵和Gram-Schmidt正交化]()
+* [第十八讲 行列式及其性质]()
+* [第十九讲 行列式公式和代数余子式]()
+* [第二十讲 克拉默法则、逆矩阵、体积]()
+* [第二十一讲 特征值和特征向量]()
+* [第二十二讲 对角化和A矩阵的幂]()
+* [第二十三讲 微分方程和exp(At)]()
+* [第二十四讲 马尔科夫矩阵、傅里叶级数]()
+* [第二十五讲 复习二]()
 
 ## 参考资料
 
-* [麻省理工公开课：线性代数](http://open.163.com/special/opencourse/daishu.html)，讲师 Gilbert Strang，麻省理工学院。
+* 麻省理工公开课：线性代数（[网易公开课](http://open.163.com/special/opencourse/daishu.html)），讲师 Gilbert Strang，麻省理工学院。
 * Introduction to Linear Algebra（[豆瓣](https://book.douban.com/subject/3582335/)），作者 Gilbert Strang。
+* 线性代数笔记（[Github](https://github.com/zlotus/notes-linear-algebra/blob/master/ReadMe.md)），作者 子实。
