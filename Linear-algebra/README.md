@@ -30,7 +30,7 @@
 * [第十九讲 行列式公式和代数余子式](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture19.ipynb)
 * [第二十讲 克拉默法则、逆矩阵、体积](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture20.ipynb)
 * [第二十一讲 特征值和特征向量](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture21.ipynb)
-* [第二十二讲 对角化和A矩阵的幂]()
+* [第二十二讲 对角化和A矩阵的幂]((http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture22.ipynb)
 * [第二十三讲 微分方程和exp(At)]()
 * [第二十四讲 马尔科夫矩阵、傅里叶级数]()
 * [第二十五讲 复习二]()
