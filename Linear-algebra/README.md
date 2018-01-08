@@ -33,7 +33,7 @@
 * [第二十一讲 特征值和特征向量](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture21.ipynb)
 * [第二十二讲 对角化和A矩阵的幂](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture22.ipynb)
 * [第二十三讲 微分方程和exp(At)](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture23.ipynb)
-* [第二十四讲 马尔科夫矩阵、傅里叶级数]()
+* [第二十四讲 马尔科夫矩阵、傅里叶级数](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture24.ipynb)
 * [第二十五讲 复习二]()
 
 ## 参考资料
