@@ -4,9 +4,11 @@
 
 完成日期：2018 年 1 月 xx 日
 
+
 ## 主要内容
 
 麻省理工线性代数公开课笔记，使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer]()中查看。
+
 
 ## 目录
 
@@ -34,7 +36,18 @@
 * [第二十二讲 对角化和A矩阵的幂](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture22.ipynb)
 * [第二十三讲 微分方程和exp(At)](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture23.ipynb)
 * [第二十四讲 马尔科夫矩阵、傅里叶级数](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture24.ipynb)
-* [第二十五讲 复习二]()
+* [第二十五讲 复习二](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture25.ipynb)
+* [第二十六讲 对称矩阵及正定性](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture26.ipynb)
+* [第二十七讲 复数矩阵和快速傅里叶变换](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture27.ipynb)
+* [第二十八讲 正定矩阵和快速傅里叶变换](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture28.ipynb)
+* [第二十九讲 相似矩阵和诺尔当行](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture29.ipynb)
+* [第三十讲 奇异值分解](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture30.ipynb)
+* [第三十一讲 线性变化及对应矩阵](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture31.ipynb)
+* [第三十二讲 基变换和图像压缩](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture32.ipynb)
+* [第三十三讲 复习三](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture33.ipynb)
+* [第三十四讲 左右逆和伪逆](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture34.ipynb)
+* [第三十五讲 期末复习](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture35.ipynb)
+
 
 ## 参考资料
 
