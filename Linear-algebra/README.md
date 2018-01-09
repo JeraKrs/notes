@@ -39,7 +39,7 @@
 * [第二十五讲 复习二](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture25.ipynb)
 * [第二十六讲 对称矩阵及正定性](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture26.ipynb)
 * [第二十七讲 复数矩阵和快速傅里叶变换](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture27.ipynb)
-* [第二十八讲 正定矩阵和快速傅里叶变换](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture28.ipynb)
+* [第二十八讲 正定矩阵和最小值](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture28.ipynb)
 * [第二十九讲 相似矩阵和诺尔当行](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture29.ipynb)
 * [第三十讲 奇异值分解](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture30.ipynb)
 * [第三十一讲 线性变化及对应矩阵](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture31.ipynb)
