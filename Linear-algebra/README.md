@@ -7,7 +7,7 @@
 
 ## 主要内容
 
-麻省理工线性代数公开课笔记，使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer]()中查看。
+麻省理工线性代数公开课笔记，课程代码 18.06。笔记使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer]()中查看。
 
 
 ## 目录
