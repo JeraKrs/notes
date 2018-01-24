@@ -2,12 +2,12 @@
 
 作者：[Jerakrs](http://jerakrs.com/)
 
-完成日期：2018 年 1 月 xx 日
+完成日期：2018 年 1 月 24 日
 
 
 ## 主要内容
 
-麻省理工线性代数公开课笔记，课程代码 18.06。笔记使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer]()中查看。
+麻省理工线性代数公开课笔记，课程代码 18.06。笔记使用 jupyter notebook (ipython notebook) 编写展示，可在[Nbviewer](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/README.ipynb)中查看。
 
 
 ## 目录
