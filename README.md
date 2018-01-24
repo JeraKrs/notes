@@ -11,10 +11,10 @@
 ## 目录
 
 * 基础数学
-	* [线性代数](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+	* [线性代数 (MIT 公开课-18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
 * 计算机基础
 	* 计算机组成原理 TODO
-	* [计算机网络](https://jerakrs.gitbooks.io/computer_networks/content/)
+	* [计算机网络 (计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
 	* 操作系统 TODO
 	* 数据结构与算法 TODO
 
