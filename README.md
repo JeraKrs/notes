@@ -10,32 +10,25 @@
 
 ## 目录
 
-### 基础数学
+* 基础数学
+	* [线性代数](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+* 计算机基础
+	* 计算机组成原理 TODO
+	* [计算机网络](https://jerakrs.gitbooks.io/computer_networks/content/)
+	* 操作系统 TODO
+	* 数据结构与算法 TODO
 
-* [线性代数](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+* 机器学习
+	* 机器学习 TODO
 
-### 计算机基础
+*  数据库
+	* Redis TODO
+	* MySQL TODO
+	* MongoDB TODO
 
-* 计算机组成原理 TODO
-* [计算机网络](https://jerakrs.gitbooks.io/computer_networks/content/)
-* 操作系统 TODO
-* 数据结构与算法 TODO
+*  编程语言
+	* Clang TODO
+	* Python TODO
 
-### 机器学习
-
-* 机器学习 TODO
-
-### 数据库
-
-* Redis TODO
-* MySQL TODO
-* MongoDB TODO
-
-### 编程语言
-
-* C语言 TODO
-* Python TODO
-
-### 工具
-
-* Github TODO
+*  工具
+	* Github TODO
