@@ -5,13 +5,14 @@
 
 ## 主要内容
 
-整理收纳一些学习笔记，笔记编写工具有jupyter notebook，gitbook，sharelatex。
+本项目整理收纳一些计算机相关知识的学习笔记，笔记编写工具有jupyter notebook，gitbook，sharelatex。
 
 
 ## 目录
 
 * 基础数学
-	* [线性代数 (MIT 公开课-18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+	* [线性代数 (MIT 线性代数公开课 - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+
 * 计算机基础
 	* 计算机组成原理 TODO
 	* [计算机网络 (计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
