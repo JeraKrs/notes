@@ -11,7 +11,7 @@
 ## 目录
 
 * 基础数学
-	* [线性代数 (MIT 线性代数公开课 - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear-algebra/README.md)
+	* [线性代数 (MIT 线性代数公开课 - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
 * 计算机基础
 	* 计算机组成原理 TODO

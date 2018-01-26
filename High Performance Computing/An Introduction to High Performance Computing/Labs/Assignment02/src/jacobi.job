@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#PBS -N jacobi
+#PBS -o jacobi.out
+#PBS -joe
+#PBS -m a
+#PBS -q teaching
+#PBS -l nodes=1:ppn=16
+#PBS -l walltime=00:30:00
+
+cd $PBS_O_WORKDIR
+
+export OMP_PLACES=cores
+
+echo Running on host `hostname`
+echo Time is `date`
+echo Directory is `pwd`
+echo PBS job ID is $PBS_JOBID
+
+./jacobi --norder 2000 --iterations 20000
