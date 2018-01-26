@@ -48,6 +48,10 @@
 * [第三十四讲 左右逆和伪逆](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture34.ipynb)
 * [第三十五讲 期末复习](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Linear-algebra/Lecture35.ipynb)
 
+## 导图
+
+![导图](./outline.png)
+
 
 ## 参考资料
 
