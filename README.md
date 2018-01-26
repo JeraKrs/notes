@@ -33,3 +33,8 @@
 
 *  工具
 	* Github TODO
+
+* 其它课程
+	* High Performance Computing
+		* [An Introduction of High Performacne Computing]()
+		* [Advanced High Performance Computing]()
