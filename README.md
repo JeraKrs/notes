@@ -36,5 +36,5 @@
 
 * 其它课程
 	* High Performance Computing
-		* [An Introduction of High Performacne Computing（Bristol - COMS30005）](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/README.md)
-		* [Advanced High Performance Computing]()
+		* [An Introduction of High Performacne Computing（Bristol - COMS30005）](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/README.md) --- TODO
+		* [Advanced High Performance Computing（Bristol - COMS30006）]() --- TODO
