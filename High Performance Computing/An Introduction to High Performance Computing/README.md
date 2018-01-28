@@ -2,7 +2,7 @@
 
 Author: [Jerakrs](http://jerakrs.com/)
 
-Date of Completion: xx/Jan/2018
+Date of Completion: 28/Jan/2018
 
 
 ## Overview
@@ -45,4 +45,4 @@ Date of Completion: xx/Jan/2018
 
 ## Notes
 
-* [Lecture Notes]()
+* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Notes/COMS30005_Lecture_Notes.pdf)
