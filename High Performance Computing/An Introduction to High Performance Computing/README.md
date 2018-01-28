@@ -4,6 +4,7 @@ Author: [Jerakrs](http://jerakrs.com/)
 
 Date of Completion: xx/Jan/2018
 
+
 ## Overview
 
 * Unit name: An Introduction to High Performance Computing
@@ -11,6 +12,7 @@ Date of Completion: xx/Jan/2018
 * Unit director: Simon McIntosh-Smith
 * Unit lecturers: Simon McIntosh-Smith and Gethin Williams 
 * Tutorial assistants: James Price, Tom Deakin, Matt Martineau, George Pawelczak, Patrick Atkinson and Andrei Poenaru.
+
 
 ## Lectures
 
@@ -40,3 +42,7 @@ Date of Completion: xx/Jan/2018
 * [Assignment1: Serial Optimilsations (25%)](https://github.com/JeraKrs/Notes/tree/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Labs/Assignment01)
 * [Assignment2: Porting the Jacobi Code to OpenMP (75%)](https://github.com/JeraKrs/Notes/tree/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Labs/Assignment02)
 * [Example of OpenMP and OpenMPI](https://github.com/UoB-HPC/hpc-course-examples)
+
+## Notes
+
+* [Lecture Notes]()
