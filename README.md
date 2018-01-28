@@ -12,6 +12,7 @@
 
 * 基础数学
 	* [线性代数 (MIT 线性代数公开课 - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+	* [Uncertainty Modelling for Intelligent Systems (Bristol - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 * 计算机基础
 	* 计算机组成原理 TODO
@@ -36,5 +37,5 @@
 
 * 其它课程
 	* High Performance Computing
-		* [An Introduction of High Performacne Computing（Bristol - COMS30005）](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/README.md)
-		* [Advanced High Performance Computing（Bristol - COMS30006）]() --- TODO
+		* [An Introduction of High Performacne Computing (Bristol - COMS30005)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/README.md)
+		* [Advanced High Performance Computing (Bristol - COMS30006)]() --- TODO
