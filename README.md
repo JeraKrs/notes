@@ -11,7 +11,7 @@
 ## 目录
 
 * 基础数学
-	* [线性代数 (MIT 线性代数公开课 - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+	* [线性代数 (MIT - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 	* [Uncertainty Modelling for Intelligent Systems (Bristol - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 * 计算机基础
