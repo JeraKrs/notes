@@ -25,10 +25,10 @@ Date of Completion: 30/Jan/2018
 
 ## Notes
 
-* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/Notes/EMATM1120_Lecture_Notes.pdf)
+* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/EMATM1120_Lecture_Notes.pdf)
 
 
 ## Materials
 
-* [Lecture PowerPoint](https://drive.google.com/drive/u/0/folders/1CReLTrtjrd8XfqRU45BhyDoAmb26VZXY)
+* [Lectures](https://drive.google.com/drive/u/0/folders/1CReLTrtjrd8XfqRU45BhyDoAmb26VZXY)
 * [Exercises](https://drive.google.com/drive/u/0/folders/1aDwC4gTnOSiOqtLg_iVzv-VV0L2Wyx5A)
