@@ -35,7 +35,5 @@ Date of Completion: 28/Jan/2018
 
 ## Notes
 
-* [Lecture Notes]()
-
-
+* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/Notes/EMATM1120_Lecture_Notes.pdf)
 
