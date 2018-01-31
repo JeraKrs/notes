@@ -2,7 +2,7 @@
 
 Author: [Jerakrs](http://jerakrs.com/)
 
-Date of Completion: 28/Jan/2018
+Date of Completion: xx/xx/2018
 
 
 ## Overview
