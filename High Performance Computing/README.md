@@ -13,6 +13,8 @@ Date of Completion: xx/xx/2018
 * Unit lecturers: Simon McIntosh-Smith and Gethin Williams 
 * Tutorial assistants: James Price, Tom Deakin, Matt Martineau, George Pawelczak, Patrick Atkinson and Andrei Poenaru.
 
+----
+----
 
 ## An Introduction to High Performance Computing
 
@@ -59,4 +61,20 @@ Date of Completion: xx/xx/2018
 * [Labs](https://drive.google.com/drive/u/0/folders/1Z5u_GDd2o9QHjK0RHQ9h6yUxdqb6o4zP)
 
 
+----
+----
+
 ## Advanced High Performance Computing 
+
+### Lectures
+
+* Lecture01 - Introduction
+* Lecture02 - Lattice Boltzmann
+* Lecture03 - MPI3
+* Lecture04 - On the Origin of Programming-Models
+
+### Labs
+
+### Notes
+
+### Materials
