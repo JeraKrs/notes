@@ -14,13 +14,13 @@ Date of Completion: 30/Jan/2018
 
 ## Lectures
 
-* Lecture00 - Overview
-* Lecture01 - Quantitative Measures of Uncertainty
-* Lecture02 - Probability Theory
-* Lecture03 - Information and Inference
-* Lecture04 - Dempster-Shafer Theory
-* Lecture05 - Fuzzy Set Theory
-* Lecture06 - Modal Logic
+* Lecture0 - Overview
+* Lecture1 - Quantitative Measures of Uncertainty
+* Lecture2 - Probability Theory
+* Lecture3 - Information and Inference
+* Lecture4 - Dempster-Shafer Theory
+* Lecture5 - Fuzzy Set Theory
+* Lecture6 - Modal Logic
 
 
 ## Notes

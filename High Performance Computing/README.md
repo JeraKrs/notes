@@ -1,4 +1,4 @@
-# An Introduction of High Performance Computing
+# High Performance Computing
 
 Author: [Jerakrs](http://jerakrs.com/)
 

@@ -12,11 +12,11 @@
 
 * 基础数学
 	* [线性代数 (MIT - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
-	* [Uncertainty Modelling for Intelligent Systems (Bristol - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
+	* [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 * 计算机基础
 	* 计算机组成原理 - TODO
-	* [计算机网络 (计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
+	* [计算机网络 (Book - 计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
 	* 操作系统 - TODO
 	* 数据结构与算法
 
@@ -36,4 +36,4 @@
 	* Github - TODO
 
 * 其它课程
-	* [High Performance Computing (Bristol - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md) - TODO
+	* [High Performance Computing (UoB - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md) - TODO
