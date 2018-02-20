@@ -1,4 +1,4 @@
-# 线性代数笔记
+# 线性代数
 
 作者：[Jerakrs](http://jerakrs.com/)
 

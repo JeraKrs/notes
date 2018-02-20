@@ -12,6 +12,11 @@ Date of Completion: 30/Jan/2018
 * Unit director: Jonathan Lawry
 
 
+## Description
+
+This unit will explore the techniques and methodologies developed within Artificial Intelligence to represent and reason with information which is uncertain, imprecise or fuzzy. The unit will provide an overview of a range of different approaches explaining both the mathematics and the underlying philosophy and investigating practical applications.
+
+
 ## Lectures
 
 * Lecture0 - Overview

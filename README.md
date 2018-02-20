@@ -17,7 +17,7 @@
 * 计算机基础
 	* 计算机组成原理 - TODO
 	* [计算机网络 (Book - 计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
-	* 操作系统 - TODO
+	* [操作系统 (MIT - 6.828)]() - TODO
 	* 数据结构与算法
 
 * 机器学习
