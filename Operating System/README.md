@@ -7,13 +7,13 @@ Date of Completion: xx/xx/2018
 
 ## Overview
 
-This project contains the notes about the course of operating systems in MIT, the course code is 6.828. Views in [Nbviewer]().
+The notes are about the course of operating systems in MIT, the course code is 6.828. Views in [Nbviewer]().
 
 
 ## Lectures
 
-* [Lecture01 - Operating systems](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Lectures/Lecutre01.ipynb)
-* Lecture02 - PC hardware and x86 programming slides
+* [Lecture01 - Operating systems](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Lectures/Lecture01.ipynb)
+* [Lecture02 - PC hardware and x86 programming slides](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Lectures/Lecture02.ipynb)
 * Lecture03 - C and gdb 
 * Lecture04 - Shell & OS organization
 * Lecture05 - Isolation mechanisms
@@ -45,6 +45,17 @@ This project contains the notes about the course of operating systems in MIT, th
 * Chapter5 - Scheduling
 * Chapter6 - File system
 * Chapter7 - Summary
+
+
+## Labs
+
+* Lab1: C, Assembly, Tools, and Bootstrapping
+* Lab2: Memory management
+* Lab3: User-Level Environments
+* Lab4: Preemptive Multitasking
+* Lab5: File system, spawn, and sh
+* Lab6: Networking
+* Lab7: Final project
 
 
 ## References

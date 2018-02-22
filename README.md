@@ -1,4 +1,4 @@
-# Notes 
+# 笔记
 
 作者：[Jerakrs](http://jerakrs.com/)
 
@@ -15,10 +15,10 @@
 	* [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 * 计算机基础
-	* 计算机组成原理 - TODO
+	* [计算机组成原理 (Book - 深入理解计算机系统)] - TODO
 	* [计算机网络 (Book - 计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
 	* [操作系统 (MIT - 6.828)]() - TODO
-	* 数据结构与算法
+	* 编译原理
 
 * 机器学习
 	* 机器学习 - TODO
@@ -26,14 +26,16 @@
 *  数据库
 	* Redis
 	* MySQL
-	* MongoDB - TODO
+	* [MongoDB (Book - MongoDB 权威指南)]() - TODO
 
 *  编程语言
 	* Clang - TODO
 	* Python - TODO
 
 *  工具
-	* Github - TODO
+	* [Github (Book - Git Book)]() - TODO
+	* Docker
+	* Kafka
 
 * 其它课程
 	* [High Performance Computing (UoB - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md) - TODO
