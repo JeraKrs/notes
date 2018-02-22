@@ -7,12 +7,12 @@ Date of Completion: xx/xx/2018
 
 ## Overview
 
-This project contains the notes about the course of operating systems in MIT, the course code is 6.828.
+This project contains the notes about the course of operating systems in MIT, the course code is 6.828. Views in [Nbviewer]().
 
 
 ## Lectures
 
-* Lecture01 - Operating systems
+* [Lecture01 - Operating systems](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Lectures/Lecutre01.ipynb)
 * Lecture02 - PC hardware and x86 programming slides
 * Lecture03 - C and gdb 
 * Lecture04 - Shell & OS organization
@@ -37,7 +37,7 @@ This project contains the notes about the course of operating systems in MIT, th
 
 ## Documents
 
-* Chapter0 - Operating system interfaces
+* [Chapter0 - Operating system interfaces](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/xv6-book/chapter0.ipynb)
 * Chapter1 - Operating system organization
 * Chapter2 - Page tables
 * Chapter3 - Traps, interrupts, and drivers
@@ -51,4 +51,4 @@ This project contains the notes about the course of operating systems in MIT, th
 
 * MIT's 6.828 ([Official Website](https://pdos.csail.mit.edu/6.828/2016/index.html))
 * [xv6 book](https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf)
-* xv6 chinese translation ([Git book](https://th0ar.gitbooks.io/xv6-chinese/content/))
+* Chinese translation of xv6 book ([Git book](https://th0ar.gitbooks.io/xv6-chinese/content/))
