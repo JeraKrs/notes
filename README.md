@@ -15,22 +15,22 @@
 	* [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 * 计算机基础
-	* [计算机组成原理 (Book - 深入理解计算机系统)] - TODO
+	* 计算机组成原理 (Book - 深入理解计算机系统)
 	* [计算机网络 (Book - 计算机网络：自顶向下方法)](https://jerakrs.gitbooks.io/computer_networks/content/)
 	* [操作系统 (MIT - 6.828)]() - TODO
 	* 编译原理
 
-* 机器学习
-	* 机器学习 - TODO
+* 人工智能
+	* [Machine Learning]() - TODO
 
 *  数据库
-	* Redis
-	* MySQL
+	* [Redis (Book - Redis 设计与实现)]() - TODO
+	* [MySQL (Book - 高性能MySQL)]() - TODO
 	* [MongoDB (Book - MongoDB 权威指南)]() - TODO
 
 *  编程语言
-	* Clang - TODO
-	* Python - TODO
+	* Clang
+	* [Python ()]() - TODO
 
 *  工具
 	* [Github (Book - Git Book)]() - TODO
@@ -39,3 +39,4 @@
 
 * 其它课程
 	* [High Performance Computing (UoB - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md) - TODO
+	* [Server Software (UoB - COMSM2001)]() - TODO
