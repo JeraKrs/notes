@@ -33,7 +33,7 @@
 	* [Python ()]() - TODO
 
 *  工具
-	* [Github (Book - Pro Git)]() - TODO
+	* [Git (Book - Pro Git)]() - TODO
 	* Docker
 	* Kafka
 

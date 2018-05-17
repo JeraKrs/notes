@@ -1,0 +1,208 @@
+% #######################################
+% ########### FILL THESE IN #############
+% #######################################
+\def\mytitle{ASSIGNMENT 2: A Key-value Store Server}
+\def\myauthor{SHUAI KE - 1609628}
+% #######################################
+% #### YOU DON'T NEED TO TOUCH BELOW ####
+% #######################################
+\documentclass[10pt, a4paper]{article}
+\usepackage[a4paper,outer=1.5cm,inner=1.5cm,top=1.75cm,bottom=1.5cm]{geometry}
+\twocolumn
+\usepackage{graphicx}
+
+%colour our links, remove weird boxes
+\usepackage[colorlinks,linkcolor={black},citecolor={blue!80!black},urlcolor={blue!80!black}]{hyperref}
+%Stop indentation on new paragraphs
+\usepackage[parfill]{parskip}
+%% Arial-like font
+\usepackage{lmodern}
+\renewcommand*\familydefault{\sfdefault}
+%Napier logo top right
+\usepackage{watermark}
+%Lorem Ipusm dolor please don't leave any in you final report ;)
+\usepackage{lipsum}
+\usepackage{xcolor}
+\usepackage{listings}
+%give us the Capital H that we all know and love
+\usepackage{float}
+%tone down the line spacing after section titles
+\usepackage{titlesec}
+%Cool maths printing
+\usepackage{amsmath}
+%PseudoCode
+\usepackage{algorithm2e}
+
+\titlespacing{\subsection}{0pt}{\parskip}{-3pt}
+\titlespacing{\subsubsection}{0pt}{\parskip}{-\parskip}
+\titlespacing{\paragraph}{0pt}{\parskip}{\parskip}
+\newcommand{\figuremacro}[5]{
+    \begin{figure}[#1]
+        \centering
+        \includegraphics[width=#5\columnwidth]{#2}
+        \caption[#3]{\textbf{#3}#4}
+        \label{fig:#2}
+    \end{figure}
+}
+
+\lstset{
+	escapeinside={/*@}{@*/}, language=C++,
+	basicstyle=\fontsize{8.5}{12}\selectfont,
+	numbers=left,numbersep=2pt,xleftmargin=2pt,frame=tb,
+    columns=fullflexible,showstringspaces=false,tabsize=4,
+    keepspaces=true,showtabs=false,showspaces=false,
+    backgroundcolor=\color{white}, morekeywords={inline,public,
+    class,private,protected,struct},captionpos=t,lineskip=-0.4em,
+	aboveskip=10pt, extendedchars=true, breaklines=true,
+	prebreak = \raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}},
+	keywordstyle=\color[rgb]{0,0,1},
+	commentstyle=\color[rgb]{0.133,0.545,0.133},
+	stringstyle=\color[rgb]{0.627,0.126,0.941}
+}
+
+\setlength{\parskip}{0.3em}
+
+
+\title{\mytitle}
+\author{\myauthor\hspace{0.2em}}
+
+% #######################################
+% ########### START FROM HERE ###########
+% #######################################
+\begin{document}
+\maketitle
+
+\newpage
+
+\section{Implementation}
+    
+\subsection{Overall}
+    
+Firstly, the main thread does the initialization. Then, it polls the two sockets until the server is closed. For a new data request, the main thread stores the file descriptor into the queue and broadcasts all worker threads, while for a new control request, the program will handle it immediately. When the server receives the shutdown command, the main thread will set the shutdown flag to true, broadcast all workers and wait they finished their work. After that, the main thread deallocates the memory and releases the semaphores.
+
+The thread pool consists four worker threads, each thread has a loop for serving the data request. When there is a new data request, the program ensures that only one worker thread gets the file descriptor from the queue and this thread will handle the request until user exit.
+    
+\subsection{Global variables}
+
+There are a queue and five semaphores [lines 27-30].
+
+\begin{itemize}
+    \item Que: store the file descriptor of data requests.
+    \item s\_shutdown: indicate the server is closed or not.
+    \item s\_work\_avail: the number of available request in queue.
+    \item s\_space\_avail: the number of available space in queue.
+    \item s\_data\_lock: prevent race conditions in the kv-store.
+    \item s\_queue\_lock: prevent race conditions in the queue.
+\end{itemize}
+    
+\subsection{Threads and Functions}
+    
+The key-value store server has two kinds of threads, main thread and worker thread. The program accepts two kinds of requests, data and control, it handles them by the function \textit{data\_work} and \textit{control\_work} respectively. 
+    
+The \textbf{main thread} checks the arguments is enough or not firstly [lines 789-792] and calls the \textit{initialise} function to initialise the global variables, including five semaphores and the queue[lines 795, 506-576]. Then, it will create two sockets, bind them to the control and the data port respectively [lines 798-803, 462-499], and create the worker threads to handle the data requests [lines 806-813]. After that, the main thread starts to listen to the two ports and waits for the new requests until the server is closed[lines 816, 662-780]:
+    
+\begin{itemize}
+    \item Poll the two sockets to wait for the new requests [lines 674-678, 684].
+    \item For the data request, the main thread accepts it and stores the file descriptor into the queue when the queue is not full, then decrease 1 of available space and increase 1 of available work of queue [lines 710-778].
+    \item For the control request, the main thread accepts it and calls \textit{control\_work} function to handle immediately. It will check the server should close or not after handle each control request [lines 687-707, 234-343]
+\end{itemize}
+    
+Finally, it closes the sockets and releases the global variables [lines 819-833, 583-654].
+    
+For each \textbf{worker thread}, there is a loop for handling the data request until the server is closed [line 364]. In each iteration, the thread will block when there is no available work [line 367], otherwise, it gets the file descriptor of the data request from queue[line 381], then decreases 1 of available work and increase 1 of available space of queue. Before handling the data request, the worker thread will check the s\_shutdown flag, if the server is closed, it will exit directly [lines 405-426]. Furthermore, when there is no new data request and the server is shutting down, the thread will still check the s\_shutdown signal even it cannot pop a file descriptor from queue [lines 435-449].
+    
+The \textbf{control\_work} and \textbf{data\_work} function have a loop for handling the commands, and they will read the command from and write the response to the file descriptor.
+
+
+\subsection{Error checking and Debugging}
+    
+\textbf{Error checking}: Server checks the operation in heap memory, semaphore, thread, IO, kv-store and queue. The invalid data commands also be handled.
+    
+\textbf{Debugging}: When the program catches an error, it uses the \textit{perror} function to print the information in stderr for tracing the bug.
+    
+    
+\section{Correctness}
+    
+\begin{itemize}
+    \item Each thread needs to acquire the data and queue lockers before operating the kv-store and the queue, it will release the lockers after the operation, which ensures only one thread operates the kv-store or queue at the same time and no more than one thread has the same file descriptor getting from the queue.
+    \item The main thread waits for all worker threads to finish their work when it receives a shutdown command.
+    \item The server will exit for a system call error, but it not aborts for any user commands.
+    \item There is no deadlock, two semaphores work cooperation to ensure the file descriptor pass from the main thread to worker thread by the queue. And when the server should close, the main thread will wake up all worker threads.
+\end{itemize}
+    
+    
+\subsection{Testing and Bug Fixes}
+
+Most tests are correct, but some problems appear in the testing section. There are the bugs and solutions as follows:
+
+\begin{itemize}
+    \item \textbf{Blocking problem}: NTHREAD=1, QUEUE\_SIZE=1, three data requests. In this case, one request is handled by the worker thread and one request is stored in the queue, but the remaining one will block the main thread since it waits for the semaphore s\_avail\_space and the server cannot accept any request, including data request, during this time. The solution is to set the initial value of \textit{s\_space\_avail} to QUEUE\_SIZE + 1, the new data request will get a warning message, exit directly and release a space avail when the queue is full [lines 539, 740-770].
+    
+    \item \textbf{Exiting problem}: NTHREAD=1, QUEUE\_SIZE=2, three data requests and one control request. In this case, one data request is handled by the worker thread, two data requests are stored in the queue. During this time, send a shutdown command by the control request and exit the first data request. The worker thread finishes the first data request and detects the server should close before it handles the second data request, so it sends a warning message to the second user, but for the third user, the link just close, there is no any warning message and the file descriptor also not close. The solution is the worker thread will not exit directly when it detects the server should close unless it does not get any data request [line 425].
+    
+\end{itemize}
+
+
+\section{Introduction for extension}
+
+The extension part implements the skip list [1] in \textit{skiplist.h} to fix the memory problems in \textit{kv.h} and improve the complexity in operating key-value store from $o(n)$ to $o(logn)$.
+
+The implementation of kv-store in \textit{kv.h} has some tiny memory problems, \textbf{memory leak}. There are three points which are fixed in \textit{skiplist.c} as follows:
+
+\begin{itemize}
+    \item In the update function (updateItem), it overrides the pointer of the value and does not release the memory of the previous value [line 64 in kv.c].
+    \item In the delete function (deleteItem), it releases the memory of the value [line 73 in kv.c], but it does not release the memory of the key.
+    \item There is no function for release the memory of the whole kv-store after the server is closed.
+\end{itemize}
+
+Skip list [1] provides an efficient strategy for the key-value store. The complexity of the operation in the skip list, like search, insertion, and deletion, is $o(logn)$.
+
+
+\section{Implementation for extension}
+
+\subsection{Overall}
+
+The extensional code is using the APIs in \textit{skiplist.h} to operate the kv-store, and the memory management for the key and value is doing in the skip list, which replaces doing in the out of kv-store. The memory of the whole kv-store also is deallocated [lines 617-634].
+
+\subsection{Global variables}
+
+There is a added global variable Items which is the skip list instance for key-value store.
+
+
+\subsection{The structure of skip list}
+
+A skip list is a variant linked list which the node has different levels. The bottom layer is an ordinary ordered linked list. Furthermore, the level of each node is depending on the \textit{random\_level} function [lines 22-28 in skiplist.c] during the insertion. The \textit{Figure 1} shows the structure of skip list:
+
+\figuremacro{h}{figure01}{}{The Structure of Skip List}{1.0}
+
+$a)$ is an ordinary ordered linked list and $b)$ shows the skip list with maximum level is 2. The nodes of level 2 form a new linked list, which as the quick path. When we need to search $Key=13$, it searches the nodes of level 2 firstly to determine the scope, then finds it in the level 1. The \textit{Figure 2} shows the procedure.
+
+\figuremacro{h}{figure02}{}{The search path}{1.0}
+
+
+\subsection{APIs}
+
+The implementation of the key APIs in the skip list is shown as follows (the code is in skiplist.c):
+
+\begin{itemize}
+    \item init\_skiplist: initialize the skip list instance, the return value is a pointer of skip list or NULL [lines 30-43].
+    \item search\_skiplist: search for the value stored under the key [lines 46-68].
+    \item insert\_skiplist: insert a new item under the given key, the memory for storing the key and value are allocated in this function [lines 94-139].
+    \item update\_skiplist: update a new item under the given key, the old value will be overridden by the new value [lines 142-168].
+    \item delete\_skiplist: delete an item, including to free memory of the key and value [lines 171-203].
+    \item free\_skiplist: free the memory of the whole skip list instance [lines 212-225].
+\end{itemize}
+
+\section{The reasons for using skip list}
+
+The skip list is a realizable and efficient data structure. The average complexity is $o(logn)$, the worst situation is $o(n)$ [1]. Redis, an open source, in-memory data structure store, used as a database, cache and message broker, which also use the skip list to implement the sorted set.
+
+\section{References}
+    
+\begin{enumerate}
+    \item W. Pugh. Skip lists: a probabilistic alternative to balanced trees. In \textit{WADS}, 1989.
+\end{enumerate}
+
+
+		
+\end{document}

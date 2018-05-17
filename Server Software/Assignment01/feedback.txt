@@ -1,0 +1,47 @@
+You submitted to CW-1 not FA-1. I am giving you some short feedback, but in future make sure that you submit to the correct assignment. 
+
+Overall, good work so far. A PASS. Consider the following to improve...
+
+
+Call your makefile "Makefile". It is standard to begin with capital "M".
+
+Your Makefile does not work. When I run using "make" I get the following error:
+
+make
+gcc -Wall -std=gnu99 -o demo demo.c
+/tmp/ccYgxjN1.o: In function `run':
+demo.c:(.text+0x115a): undefined reference to `pthread_create'
+demo.c:(.text+0x11ce): undefined reference to `pthread_create'
+demo.c:(.text+0x1345): undefined reference to `pthread_join'
+demo.c:(.text+0x1385): undefined reference to `pthread_join'
+collect2: ld returned 1 exit status
+make: *** [demo] Error 1
+
+You are not linking to the POSIX library. Always check your Makefile works. You will lose marks for this.
+
+I can compile your code manually. Running one test gave correct output as follows.
+
+lua tester.lua log
+S=4 M=5 K=2 N=3 T=60 D=5
+S 00  p---------------------------------------<++++x...............
+S 01  p-------------------------------------<++++x.................
+S 02  p------------------------------<+++++x.......................
+S 03  p----------------------------<++++x..........................
+M 00  e----------------------------3++++d---------------------t....
+M 01  e-------------------------------------1++++d------------t....
+M 02  e------------------------------2+++++d1++++d------------t....
+M 03  e------------------------------2+++++d--0++++d----------t....
+M 04  e----------------------------3++++d-----0++++d----------t....
+
+I looked at your report labelled 2-report.txt.
+
+Comments:
+
+* Please refer to lines in your code when you explain/describe it. E.g., "I grab K markers" [lines 120-125].
+* Include some discussion of the tests that you have run (ie what inputs have you tried and how does it perform)
+* You do not describe your marker_status structure. Try to include all your data structures.
+* You describe how you grab markers that have completed the fewest jobs. This is good. But perhaps call this section "Optimisations"/"Extensions" so we can see how you have extended upon the brief.
+
+Code:
+
+* Your code is well commented and good style. 

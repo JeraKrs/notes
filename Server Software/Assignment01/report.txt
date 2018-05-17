@@ -1,0 +1,105 @@
+COMSM2001 - Assignment One Report
+
+  Name:		SHUAI KE	
+  Student ID:	sk16910
+
+
+Implementation
+	
+	Overall:
+
+		Each student will check the number of idle marker and the remaining time after entering the lab. If the timeout, student exits directly whatever the idle markers are enough or not; If there are not enough markers, the thread will sleep and wait for the conditionals. If there are K idle markers, the student will grab and broadcast them, then it starts to demo. After the demo, student releases those markers, broadcast the marker threads and exit the lab.
+		Only marker and main thread can wake up the student thread by the conditionals, the marker thread will wake up student threads when its last student finish demo except the marker has marked N projects, the main thread will weak up student threads when the remaining time is not enough for a new demo start. A student will check the number of idle marker and the remaining time after each wake until grabbing K markers or timeout.
+		Each marker will wait to be grabbed before it marked N project. If it is not grabbed, the thread will sleep and wait for the conditionals. If it is grabbed by a student, it will wait for this student finish the demo. After the demo ended, the marker will broadcast the student threads by the conditionals if it has not marked N projects. Like student thread, marker thread checks the remaining time after each wake, it will exit the lab directly if timeout.
+		The main thread will send the signal to all threads to wake up them when the remaining time is not enough for a new demo start.
+
+
+	Global variables:
+
+	* `markers`: an array of marker_status, which indicates the status of all markers. [line 54]
+
+	* struct marker_status: it indicates the status of a marker. [lines 48-53]
+		- markerID (int):	the ID of the recorded marker
+		- is_grabbed (int):	indicate whether the marker is grabbed by a student (0 means not grab, 1 means grab)
+		- studentID (int):	the ID of the student that grabbed this marker and it is unmeaning when is_grabbed=0
+		- job (int):		indicate the number of job that the marker have marked
+
+	* `idle_marker`: a min-heap which maintains the status of idle markers. [lines 57-62]
+		- size (int):		the number of elements that the min-heap has
+		- max_size (int):	the maximum number of elements that the min-heap can has
+		- elements (pointer):	a array of marker_status, which indicates the status of idle markers
+
+	* `timeout`: indicate whether the remaining time is enough for a new demo start (0 means enough, 1 means not enough). [line 69]
+
+
+	Locker and Conditionals:
+
+	* `mut`: a mutex for preventing race conditions, each thread needs to acquire the locker before reading or writing the global variables, and to release the locker after operations. [line 72]
+
+	* `c_student`: a condition variable for student threads. [line 75]
+
+	* `c_marker`: a condition variable for marker threads. [line 76]
+
+
+	Threads:
+
+		Main thread:
+		* initialise the global variables, including dynamical memory allocation and min-heap initialization. [lines 145-178,650]
+		* set the timeout=1 when the remaining time is not enough for a new demo, and broadcast marker and student threads by the conditionals. [lines 681-709]
+		* wait for all threads end and deallocate the memory. [lines 724-725]
+
+		Marker thread:
+		* it needs to mark N projects so that the loop will repeat N times except for timeout. [line 320]
+		* in each iteration, the thread waits to be grabbed by a student or timeout firstly. [lines 330-339]
+		* if timeout, release the locker and exit the lab directly. [lines 341-363]
+		* if the marker is grabbed, wait for the student finish the demo. [lines 402-418]
+		* after demo ended, job adds one and if the job is still smaller than N, add this marker into the idle marker and broadcast student threads. [lines 420-446]
+
+		Student thread:
+		* dynamically allocates memory for markerIDs to store the markerID which grabbed by this student. [lines 472-480]
+		* wait to there are K idle markers or timeout. [lines 505-514]
+		* if timeout, release the locker, deallocate the memory and exit the lab directly. [lines 548-557]
+		* if there are K idle markers, grab them (store their ID in markerIDs and set is_grabbed=1) and broadcast the marker threads. [lines 184-220,519-540]
+		* after the demo, release those markers and broadcast the marker threads. [lines 226-244,581-614]
+		* deallocate the memory and exit the lab. [line 625]
+
+
+	Error checking:
+
+	* the response of malloc
+	* the response of the operations in mutex
+	* the response of the operations in conditional
+	* the operations in min-heap
+	* the ID validity
+	
+	Debugging: when the program catches the error, it will write the information to stderr.
+
+
+
+Correctness
+
+	* each thread needs to acquire the locker before operating the global variables and release the locker after the operation, which ensures only one thread operates the global variables at the same time.
+	* students only demo when they grabbed K markers and the markers cannot be grabbed by two or more students at the same time.
+	* no deadlock, students will release the markers after the demo. Even though there are some students cannot grab enough markers, it will exit lab after the timeout and it will release the locker before students and markers exit lab.
+
+	Testing:
+	* S=1 M=1 K=2 N=2 T=90 D=2: 	student cannot grab 2 markers and exit the lab when the timeout
+	* S=10 M=1 K=1 N=10 T=10 D=8:	even the timeout, student and marker will continue the demo until the end if the demo already start, and no new demo after the timeout
+	* S=3 M=3 K=2 N=2 T=60 D=5:	all student are be marked (discuss in Optimisation)
+
+
+
+Optimisation
+
+
+	The student grabs the marker which has the smallest jobs preferentially (greedy strategy) to ensure as more students as possible are marked.
+	
+		Comparison: input S=3 M=3 K=2 N=2 T=60 D=5
+		* grab markers in sequence: the first and second marker are both grabbed by the first and second student, and leave the third marker which can mark two projects and the third student without two markers. Only two students are marked.
+		* greedy strategy: three student grabbed the first and second, the third and first, the second and third marker respectively. All students are marked.
+
+	Using min-heap to accelerated find marker which has the smallest jobs. The complexity of searching the marker is o(M) by enumeration, consider student needs K markers, the complexity of each grab is o(M * K). While using min-heap to maintain the idle markers can improve the complexity to o(logM * K).
+	
+		The min-heap will sort the idle markers by the number of the job from smallest to biggest. For each element(i), it has two child, element(2*i) and element(2*i+1), and one parent, element(i/2). The number of job in child nodes are definitely less than or equal to its parent. The element(1) is the root and element(0) is unmeaning.
+		For the insert operation, the new element will add to the end firstly. It will compare with its parent, if the weight (job) is smaller than the parent, swap the positions of them and repeat, else operation end. The complexity is o(logM) since the high of the heap is logM. [lines 98-112]
+		For pop operation, the element in root will be removed from the heap and return because its weight is smallest. The remaining elements need to rearrange to keep the heap structure. It will put the last element in the root, and compare the weight with its child nodes, change the positions with the child node that has the smallest weight and repeat until the weight of two children is both bigger than its. [lines 115-140]

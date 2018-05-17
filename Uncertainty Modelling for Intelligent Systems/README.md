@@ -35,5 +35,5 @@ This unit will explore the techniques and methodologies developed within Artific
 
 ## Materials
 
-* [Lectures](https://drive.google.com/drive/u/0/folders/1CReLTrtjrd8XfqRU45BhyDoAmb26VZXY)
-* [Exercises](https://drive.google.com/drive/u/0/folders/1aDwC4gTnOSiOqtLg_iVzv-VV0L2Wyx5A)
+* [Lectures](https://drive.google.com/drive/folders/14vrpLRzmnfdbw4ei182vpvBVF9nSDyVM)
+* [Exercises](https://drive.google.com/drive/folders/1fs6BK6Op3Z0syqrs-lm90d_1NK6cyBz7)

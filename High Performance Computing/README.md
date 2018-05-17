@@ -57,8 +57,8 @@ Date of Completion: xx/xx/2018
 
 ### Materials
 
-* [Lectures](https://drive.google.com/drive/u/0/folders/1PT7WPOD6Iw71y3K5sfkOqWDHh2sDj9eA)
-* [Labs](https://drive.google.com/drive/u/0/folders/1Z5u_GDd2o9QHjK0RHQ9h6yUxdqb6o4zP)
+* [Lectures](https://drive.google.com/drive/folders/1Rm03G49X3PMmGvUE799a76kxLLHssJA9)
+* [Labs](https://drive.google.com/drive/folders/1WkWyIvbl1aHMpJCfu6EesJ-UmBHMsPsm)
 
 
 ----
