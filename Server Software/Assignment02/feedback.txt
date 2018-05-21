@@ -1,0 +1,80 @@
+"This is an excellent piece of work with an appropriate extension that solves a number of issues with the provided code and fuses theory and application to yield a powerful extension. Well done - excellent work which demonstrates a first rate understanding of the subject matter.
+
+Report *********************************************************
+Basic report is a little long (1/3 column in 2 column format). 
+The logic is well explained as is the structure and correctness of the code
+
+
+Static Code Analysis ********************************************
+
+Race conditions: none
+Efficiency: excellent, especially with extension 
+Error checking: All present
+Robustness: No issues found
+
+Function Size: Could be slightly shorter, but commenting makes this appear greater than it is.
+Indentation: Consistent
+Comments: excellent
+
+
+
+Test basic funcitonality:
+
+{ echo ""count""; sleep 1; echo ""put name robert""; sleep 1; echo ""count""; sleep 1; echo ""put nameson peter""; sleep 1; echo ""count""; sleep 1; echo ""get name""; sleep 1;  echo ""exists nameson""; sleep 1;  echo ""count""; sleep 1;  echo ""delete name""; sleep 1;  echo ""exists name""; sleep 1;} | telnet localhost 4001
+
+************
+PASS
+************
+
+Test overwriting:
+
+{ echo ""put name robert""; sleep 1; echo ""count""; sleep 1; echo ""put name rupert""; sleep 1; echo ""count""; sleep 1; echo ""get name""; sleep 1;} | telnet localhost 4001
+
+************
+PASS
+************
+
+Test 4 clients connected on data port simulataneously:
+
+-> Add name robert term 1
+-> get name term 2
+-> delete name term 2
+-> get name term 1
+-> get name term 4
+
+*************
+Pass
+*************
+
+Check 5th client is queued:
+
+*************
+Pass
+*************
+
+
+Test control port:
+
+Client is 'stuck' and can only exit by sending shutdown signal (this is fine).
+Shutdown with no clients connected
+
+************
+PASS
+************
+
+shutdown with clients connected
+
+************
+PASS - clients keep server alive whilst connected which is expected behaviour for basic implementation
+************
+
+
+**************
+Comments:  +Everything works properly +High quality code, report and extension"
+
+
+EXTENSION
+
+"Skiplist implmented to improve efficiency of KV store. Has excellent documentation. Additionally an number of issues with the original KV store have been attended to and fixed. 
+
+This is a relatively signficant extension, both in terms of code written, documentation and theory. "

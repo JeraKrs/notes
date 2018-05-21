@@ -29,6 +29,8 @@ Date of Completion: 18/May/2018
 ## Notes
 
 * [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/Server%20Software/COMSM2001_Lecture_Notes.pdf)
+* [Assignment01 report](https://github.com/JeraKrs/notes/blob/master/Server%20Software/Assignment01/report.txt)
+* [Assignment02 report](https://github.com/JeraKrs/notes/blob/master/Server%20Software/Assignment02/report.pdf)
 
 ## Materials
 
