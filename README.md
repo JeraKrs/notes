@@ -39,4 +39,4 @@
 
 * 其它课程
 	* [High Performance Computing (UoB - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md) - TODO
-	* [Server Software (UoB - COMSM2001)]() - TODO
+	* [Server Software (UoB - COMSM2001)](https://github.com/JeraKrs/notes/blob/master/Server%20Software/README.md) - TODO

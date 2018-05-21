@@ -26,11 +26,9 @@ Date of Completion: 18/May/2018
 * Lecture11 - Sockets
 * Lecture12 - Transactions
 
-
 ## Notes
 
-* [Lecture Notes]()
-
+* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/Server%20Software/COMSM2001_Lecture_Notes.pdf)
 
 ## Materials
 
