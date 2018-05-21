@@ -72,9 +72,19 @@ Date of Completion: xx/xx/2018
 * Lecture02 - Lattice Boltzmann
 * Lecture03 - MPI3
 * Lecture04 - On the Origin of Programming-Models
-
-### Labs
+* Lecture05 - OpenCL01
+* Lecture06 - OpenCL02
+* Lecture07 - OpenCL03
+* Lecture08 - OpenCL04
+* Lecture09 - OpenMP 4.5
+* Lecture10 - Programming with Kokkos
 
 ### Notes
 
+* [Lecture Notes]()
+* [Assignment Report]()
+
 ### Materials
+
+* [Lectures](https://drive.google.com/drive/u/0/folders/10gwScW8aFYnk4Mk6wSKvL5vqGclvW5Ix)
+* [Labs](https://drive.google.com/drive/u/0/folders/1-MlLawHz4NhEPKAQ6VHqX-1d7boy4GXj)

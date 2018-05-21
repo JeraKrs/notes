@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#SBATCH --job-name d2q9-bgk
+#SBATCH --partition=cpu
+#SBATCH --time 00:30:00
+#SBATCH --output output-128x128.out
+#SBATCH --nodes 4
+#SBATCH --ntasks-per-node 28
+
+echo Running on host `hostname`
+echo Time is `date`
+echo Directory is `pwd`
+echo Slurm job ID is $SLURM_JOB_ID
+echo This job runs on the following machines:
+echo `echo $SLURM_JOB_NODELIST | uniq`
+
+module load languages/intel/2017.01 
+export I_MPI_PMI_LIBRARY=/usr/lib64/libpmi.so
+
+#! Run the executable
+srun ./d2q9-bgk input_128x128.params obstacles_128x128.dat
