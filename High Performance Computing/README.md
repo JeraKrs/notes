@@ -14,7 +14,6 @@ Date of Completion: xx/xx/2018
 * Tutorial assistants: James Price, Tom Deakin, Matt Martineau, George Pawelczak, Patrick Atkinson and Andrei Poenaru.
 
 ----
-----
 
 ## An Introduction to High Performance Computing
 
@@ -62,7 +61,6 @@ Date of Completion: xx/xx/2018
 
 
 ----
-----
 
 ## Advanced High Performance Computing 
 
@@ -81,8 +79,8 @@ Date of Completion: xx/xx/2018
 
 ### Notes
 
-* [Lecture Notes]()
-* [Assignment Report]()
+* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/COMS30006_Lecture_Notes.pdf)
+* [Assignment Report](https://github.com/JeraKrs/notes/blob/master/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/Assignment/report.pdf)
 
 ### Materials
 
