@@ -1,7 +1,7 @@
 Learning Notes
 =========================
 
-This project contains my learning notes of computer science, the notes are powered by `jupyter notebook`，`gitbook`，`sharelatex`.
+This project contains my learning notes in computer science, the notes are powered by `jupyter notebook`, `gitbook`, `sharelatex`.
 
 
 Mathematics
