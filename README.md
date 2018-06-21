@@ -8,25 +8,25 @@ Mathematics
 -------------------------
 
 * [Linear Algebra (MIT - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
-* Statistics
 * Probability Theory
+* Statistics
 
 
 Basis of Computer Engineering
 -------------------------
 
-* Computer Organization (Book - Computer Systems)
 * [Computer Networks (Book - Computer Networking A Top-Down Approach)](https://jerakrs.gitbooks.io/computer_networks/content/)
-* Operating System (MIT - 6.828) - TODO
+* Computer Organization (Book - Computer Systems)
 * Fundamentals of Compiling
+* Operating System (MIT - 6.828) - TODO
 
 
 Database
 -------------------------
 
-* Redis (Book - The Design and Implementation of Redis) - TODO
-* MySQL (Book - High Performance MySQL) - TODO
 * MongoDB (Book - MongoDB: The Definitive Guide) - TODO
+* MySQL (Book - High Performance MySQL) - TODO
+* Redis (Book - The Design and Implementation of Redis) - TODO
 
 
 Programming Language
@@ -39,8 +39,8 @@ Programming Language
 Development Tool
 -------------------------
 
-* Vim
 * [Git (Book - Pro Git)](https://jerakrs.gitbooks.io/git/content/)
+* Vim
 
 
 Others
