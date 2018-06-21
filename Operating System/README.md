@@ -10,7 +10,9 @@
 
 ## 目录
 
-* 第一讲 基本概念及原理
+* [第一讲 基本概念及原理](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter01.ipynb)
+* [第二讲 操作系统的启动、中断、异常和系统调用](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter02.ipynb)
+
 
 ## 实验
 
