@@ -15,6 +15,7 @@
 * [第三讲 内存地址和连续内存的分配](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter03.ipynb)
 * [第四讲 非连续内存分配](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter04.ipynb)
 * [第五讲 虚拟内存](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter05.ipynb)
+* [第六章 页面置换算法](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter06.ipynb)
 
 
 
