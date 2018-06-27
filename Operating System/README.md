@@ -19,6 +19,7 @@
 * [第七章 进程](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter07.ipynb)
 * [第八章 调度算法](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter08.ipynb)
 * [第九章 同步](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter09.ipynb)
+* [第十章 信号量和管程](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter10.ipynb)
 
 
 
