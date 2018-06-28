@@ -21,8 +21,7 @@
 * [第九章 同步](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter09.ipynb)
 * [第十章 信号量和管程](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter10.ipynb)
 * [第十一章 死锁](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter11.ipynb)
-
-
+* [第十二章 文件系统](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter12.ipynb)
 
 
 ## 实验
