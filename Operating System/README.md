@@ -6,7 +6,7 @@
 
 ## 主要内容
 
-清华大学操作系统公开课笔记，笔记使用 jupyter notebook 编写展示，项目可在 [Nbviewer]() 中查看。
+清华大学操作系统公开课笔记，笔记使用 jupyter notebook 编写展示，项目可在 [Nbviewer](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/README.ipynb) 中查看。
 
 ## 目录
 
@@ -27,3 +27,6 @@
 ## 实验
 
 ## 参考文献
+
+* 清华大学公开课：操作系统（[Git](https://github.com/chyyuu/os_course_info)），讲师：陈渝，清华大学。
+* uCore OS实验指导书和源码网址（[Gitbook](https://objectkuan.gitbooks.io/ucore-docs/content/)）。
