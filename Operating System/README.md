@@ -2,7 +2,7 @@
 
 作者: [Jerakrs](http://jerakrs.com/)
 
-完成日期: 2018 年 06 月 xx 日
+完成日期: 2018 年 06 月 30 日
 
 ## 主要内容
 
@@ -24,8 +24,6 @@
 * [第十二章 文件系统](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Chapter12.ipynb)
 * [总结](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Operating%20System/Summary.ipynb)
 
-
-## 实验
 
 ## 参考文献
 

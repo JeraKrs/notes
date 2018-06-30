@@ -18,7 +18,7 @@ Basis of Computer Engineering
 * [Computer Networks (Book - Computer Networking A Top-Down Approach)](https://jerakrs.gitbooks.io/computer_networks/content/)
 * Computer Organization (Book - Computer Systems)
 * Fundamentals of Compiling
-* Operating System (THU - Operating System) - TODO
+* [Operating System (THU - Operating System)](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
 
 
 Database
