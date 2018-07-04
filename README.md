@@ -21,7 +21,7 @@ Basis of Computer Engineering
 * [Operating System (THU - Operating System)](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
 
 
-Database
+Databases
 -------------------------
 
 * MongoDB (Book - MongoDB: The Definitive Guide) - TODO
@@ -29,18 +29,25 @@ Database
 * Redis (Book - The Design and Implementation of Redis) - TODO
 
 
-Programming Language
+Programming Languages
 -------------------------
 
 * C++
 * Python
 
 
-Development Tool
+Data Science
+-------------------------
+
+* Machine Learning (Coursera - Machine Learning created by Stanford) - TODO
+* [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
+
+
+Development Tools
 -------------------------
 
 * [Git (Book - Pro Git)](https://jerakrs.gitbooks.io/git/content/)
-* Vim
+* Vim - TODO
 
 
 Others
@@ -48,4 +55,3 @@ Others
 
 * [High Performance Computing (UoB - COMS30005 & COMS30006)](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md)
 * [Server Software (UoB - COMSM2001)](https://github.com/JeraKrs/notes/blob/master/Server%20Software/README.md)
-* [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
