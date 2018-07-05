@@ -16,10 +16,11 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture02 Linear Regression with One Variable](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture02.ipynb)
 * [Lecture03 Linear Regression with Multiple Variables](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture03.ipynb)
 * [Lecture04 Octave/Matlab Tutorial](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture04.ipynb)
+* [Lecture05 Logistic Regression](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture05.ipynb)
 
 ### Exercises
 
-* [Exercise01 Linear Regression]()
+* [Exercise01 Linear Regression](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise01)
 
 ### References
 
