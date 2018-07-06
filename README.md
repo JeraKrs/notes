@@ -25,21 +25,21 @@ Databases
 -------------------------
 
 * MongoDB (Book - MongoDB: The Definitive Guide) - TODO
-* MySQL (Book - High Performance MySQL) - TODO
+* [MySQL (Book - High Performance MySQL)](https://jerakrs.gitbooks.io/mysql/content/) - SUSPEND
 * Redis (Book - The Design and Implementation of Redis) - TODO
 
 
 Programming Languages
 -------------------------
 
-* C++
-* Python
+* C++ - TODO
+* Python - TODO
 
 
 Data Science
 -------------------------
 
-* Machine Learning (Coursera - Machine Learning created by Stanford) - TODO
+* [Machine Learning (Coursera - Machine Learning created by Stanford)](https://github.com/JeraKrs/notes/blob/master/Machine%20Learning/README.md) - DOING
 * [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 
