@@ -1,6 +1,7 @@
 # Machine Learning
 
 > Author: [Jerakrs](http://jerakrs.com/)
+>
 > Date of Completion: xx/July/2018
 
 ## Machine Learning created by Stanford
