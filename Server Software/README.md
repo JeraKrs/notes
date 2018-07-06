@@ -1,8 +1,8 @@
 # Server Software
 
-Author: [Jerakrs](http://jerakrs.com/)
-
-Date of Completion: 18/May/2018
+> Author: [Jerakrs](http://jerakrs.com/)
+> 
+> Date of Completion: 18/May/2018
 
 
 ## Overview

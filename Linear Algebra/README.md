@@ -1,8 +1,8 @@
 # 线性代数
 
-作者：[Jerakrs](http://jerakrs.com/)
-
-完成日期：2018 年 1 月 24 日
+> 作者：[Jerakrs](http://jerakrs.com/)
+> 
+> 完成日期：2018 年 1 月 24 日
 
 
 ## 主要内容

@@ -1,8 +1,8 @@
 # 操作系统
 
-作者: [Jerakrs](http://jerakrs.com/)
-
-完成日期: 2018 年 06 月 30 日
+> 作者: [Jerakrs](http://jerakrs.com/)
+> 
+> 完成日期: 2018 年 06 月 30 日
 
 ## 主要内容
 

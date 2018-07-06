@@ -1,8 +1,8 @@
 # Uncertainty Modelling for Intelligent Systems
 
-Author: [Jerakrs](http://jerakrs.com/)
-
-Date of Completion: 30/Jan/2018
+> Author: [Jerakrs](http://jerakrs.com/)
+> 
+> Date of Completion: 30/Jan/2018
 
 
 ## Overview

@@ -1,8 +1,8 @@
 # High Performance Computing
 
-Author: [Jerakrs](http://jerakrs.com/)
-
-Date of Completion: 24/May/2018
+> Author: [Jerakrs](http://jerakrs.com/)
+> 
+> Date of Completion: 24/May/2018
 
 
 ## Overview
