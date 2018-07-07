@@ -25,7 +25,7 @@ Databases
 -------------------------
 
 * MongoDB (Book - MongoDB: The Definitive Guide) - TODO
-* [MySQL (Book - High Performance MySQL)](https://jerakrs.gitbooks.io/mysql/content/) - SUSPEND
+* [MySQL (Book - High Performance MySQL)](https://jerakrs.gitbooks.io/mysql/content/) - SUSPENDED
 * Redis (Book - The Design and Implementation of Redis) - TODO
 
 
