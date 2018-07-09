@@ -33,6 +33,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 ### Exercises
 
 * [Exercise01 Linear Regression](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise01)
+* [Exercise02 Logistic Regression](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise02)
 
 ### References
 
