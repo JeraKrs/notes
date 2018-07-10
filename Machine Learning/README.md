@@ -19,7 +19,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture05 Logistic Regression](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture05.ipynb)
 * [Lecture06 Regularization](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture06.ipynb)
 * [Lecture07 Neural Networks: Representation](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture07.ipynb)
-* Lecture08 Neural Networks: Learning
+* [Lecture08 Neural Networks: Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture08.ipynb)
 * Lecture09 Advice for Applying Machine Learning
 * Lecture10 Machine Learning System Design
 * Lecture11 Support Vector Machines
