@@ -36,6 +36,10 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Exercise02 Logistic Regression](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise02)
 * [Exercise03 Multi-class Classification and Neural Networks](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise03)
 * [Exercise04 Neural Network Learning](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise04)
+* [Exercise05 Regularized Linear Regression and Bias/Variance](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise05)
+* Exercise06 Support Vector Machines
+* Exercise07 K-Means Clustering and PCA
+* Exercise08 Anomaly Detection and Recommender Systems
 
 ### References
 
