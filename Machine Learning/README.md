@@ -22,7 +22,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture08 Neural Networks: Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture08.ipynb)
 * [Lecture09 Advice for Applying Machine Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture09.ipynb)
 * [Lecture10 Machine Learning System Design](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture10.ipynb)
-* Lecture11 Support Vector Machines
+* [Lecture11 Support Vector Machines](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture11.ipynb)
 * Lecture12 Unsupervised Learning
 * Lecture13 Dimensionality Reduction
 * Lecture14 Anomaly Detection
