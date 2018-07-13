@@ -24,7 +24,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture10 Machine Learning System Design](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture10.ipynb)
 * [Lecture11 Support Vector Machines](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture11.ipynb)
 * [Lecture12 Unsupervised Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture12.ipynb)
-* Lecture13 Dimensionality Reduction
+* [Lecture13 Dimensionality Reduction](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture13.ipynb)
 * Lecture14 Anomaly Detection
 * Lecture15 Recommender Systems
 * Lecture16 Large Scale Machine Learning
