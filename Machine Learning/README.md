@@ -39,7 +39,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Exercise05 Regularized Linear Regression and Bias/Variance](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise05)
 * [Exercise06 Support Vector Machines](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise06)
 * [Exercise07 K-Means Clustering and PCA](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise06)
-* Exercise08 Anomaly Detection and Recommender Systems
+* [Exercise08 Anomaly Detection and Recommender Systems](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise08)
 
 ### References
 
