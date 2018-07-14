@@ -27,7 +27,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture13 Dimensionality Reduction](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture13.ipynb)
 * [Lecture14 Anomaly Detection](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture14.ipynb)
 * [Lecture15 Recommender Systems](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture15.ipynb)
-* Lecture16 Large Scale Machine Learning
+* [Lecture16 Large Scale Machine Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture16.ipynb)
 * Lecture17 Application Example: Photo OCR
 
 ### Exercises
