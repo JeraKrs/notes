@@ -39,7 +39,7 @@ Programming Languages
 Data Science
 -------------------------
 
-* [Machine Learning (Coursera - Machine Learning created by Stanford)](https://github.com/JeraKrs/notes/blob/master/Machine%20Learning/README.md) - DOING
+* [Machine Learning (Coursera - Machine Learning created by Stanford)](https://github.com/JeraKrs/notes/blob/master/Machine%20Learning/README.md)
 * [Uncertainty Modelling for Intelligent Systems (UoB - EMATM1120)](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 
