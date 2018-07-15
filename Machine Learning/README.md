@@ -2,13 +2,14 @@
 
 > Author: [Jerakrs](http://jerakrs.com/)
 >
-> Date of Completion: xx/July/2018
+> Date of Completion: 15/July/2018
 
 ## Machine Learning created by Stanford
 
 ### Overview
 
-The note is powered by jupyter notebook, which can view in [Nbviewer]().
+The note is powered by jupyter notebook, which can view in [Nbviewer](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/README.ipynb).
+
 
 ### Lectures
 
@@ -28,7 +29,7 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Lecture14 Anomaly Detection](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture14.ipynb)
 * [Lecture15 Recommender Systems](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture15.ipynb)
 * [Lecture16 Large Scale Machine Learning](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture16.ipynb)
-* Lecture17 Application Example: Photo OCR
+* [Lecture17 Application Example: Photo OCR](http://nbviewer.jupyter.org/github/JeraKrs/Notes/blob/master/Machine%20Learning/Stanford%20University/Lecture17.ipynb)
 
 ### Exercises
 
@@ -38,8 +39,13 @@ The note is powered by jupyter notebook, which can view in [Nbviewer]().
 * [Exercise04 Neural Network Learning](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise04)
 * [Exercise05 Regularized Linear Regression and Bias/Variance](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise05)
 * [Exercise06 Support Vector Machines](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise06)
-* [Exercise07 K-Means Clustering and PCA](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise06)
+* [Exercise07 K-Means Clustering and PCA](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise07)
 * [Exercise08 Anomaly Detection and Recommender Systems](https://github.com/JeraKrs/notes/tree/master/Machine%20Learning/Stanford%20University/Exercise08)
+
+### Materials
+
+* [Lectures](https://drive.google.com/drive/u/0/folders/1z1e6ZSaapqdH-WRPflpIDhGBEyqSGg5F)
+* [Exercises](https://drive.google.com/drive/u/0/folders/1XYd9JOPSHR4GozwBRVL1d5bXDCGEZLSU)
 
 ### References
 
