@@ -7,19 +7,30 @@ This project contains my learning notes in computer science, the notes are power
 Mathematics
 -------------------------
 
+
+
+--------------------------------------
+
 ### Linear Algebra
 
 > **Open Course: Linear Algebra**
 > * Publisher: Massachusetts Institute of Technology
 > * Course code: MIT - 18.06
-> * Lecturer: Gilbert Strang
+> * Lecturers: Gilbert Strang
 > * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
-> **Open Course: Linear Algebra**
-> * publisher: Massachusetts Institute of Technology
-> * course code: MIT - 18.06
-> * lecturer: Gilbert Strang
-> * [learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+--------------------------------------
+
+### Computer Networks
+
+> Book: Computer Networking A Top-Down Approach
+> * Publisher: China Machine Press
+> * ISBN: 9787111453789
+> * Authors: James F.Kurose, Keith W.Ross
+> * [Learning notes](https://jerakrs.gitbooks.io/computer_networks/content/)
+
+--------------------------------------
+
 
 **Probability Theory**
 
@@ -29,7 +40,6 @@ Mathematics
 Basis of Computer Engineering
 -------------------------
 
-* [Computer Networks (Book - Computer Networking A Top-Down Approach)](https://jerakrs.gitbooks.io/computer_networks/content/)
 * Computer Organization (Book - Computer Systems)
 * Fundamentals of Compiling
 * [Operating System (THU - Operating System)](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
