@@ -16,10 +16,10 @@ Linear Algebra
 
 **Open Course: Linear Algebra**
 
-* Publisher: Massachusetts Institute of Technology
-* Course code: MIT - 18.06
-* Lecturers: Gilbert Strang
-* [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+> * Publisher: Massachusetts Institute of Technology
+> * Course code: MIT - 18.06
+> * Lecturers: Gilbert Strang
+> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
 ------------------------------------------------------------
 
