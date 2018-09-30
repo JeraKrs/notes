@@ -13,7 +13,7 @@ Mathematics
 > * publisher: Massachusetts Institute of Technology
 > * course code: MIT - 18.06
 > * lecturer: Gilbert Strang
-> * [note](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+> * [learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
 **Probability Theory**
 
