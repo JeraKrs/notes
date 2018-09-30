@@ -97,7 +97,7 @@ Book - The Design and Implementation of Redis
 Linear Algebra
 -------------------------
 
-**Open Course: Linear Algebra**
+*Open Course: Linear Algebra*
 
 > * Publisher: Massachusetts Institute of Technology
 > * Course code: MIT - 18.06
@@ -115,7 +115,7 @@ Probability Theory
 Machine Learning
 --------------------------------------
 
-**Open Course: Machine Learning**
+*Open Course: Machine Learning*
 
 > * Publisher: Stanford University
 > * Course code: Stanford - Machine Learning
@@ -123,7 +123,7 @@ Machine Learning
 > * [Learning notes](https://github.com/JeraKrs/notes/blob/master/Machine%20Learning/README.md)
 
 
-**Required Course: Uncertainty Modelling for Intelligent Systems**
+*Required Course: Uncertainty Modelling for Intelligent Systems*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - EMATM1120
@@ -140,7 +140,7 @@ Statistics
 Git
 -------------------------
 
-**Book: Pro Git**
+*Book: Pro Git*
 
 > * Publisher: Apress
 > * ISBN: 9781484200773
@@ -156,7 +156,7 @@ Vim
 High Performance Computing
 -------------------------
 
-**Required Course: High Performance Computing**
+*Required Course: High Performance Computing*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - COMS30005 & COMS30006
@@ -166,6 +166,8 @@ High Performance Computing
 
 Server Software
 -------------------------
+
+*Required Course: Server Software*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - COMSM2001
