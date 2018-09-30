@@ -7,7 +7,7 @@ This project contains my learning notes in computer science, the notes are power
 Mathematics
 -------------------------
 
-#### Linear Algebra
+### Linear Algebra
 
 > **Open Course: Linear Algebra**
 > * Publisher: Massachusetts Institute of Technology
