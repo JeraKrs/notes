@@ -10,9 +10,10 @@ Mathematics
 **Linear Algebra**
 
 > Open Course: Linear Algebra
-> * Massachusetts Institute of Technology
+> * publisher: Massachusetts Institute of Technology
 > * course code: MIT - 18.06
-> * note link: https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md
+> * lecturer: Gilbert Strang
+> * [note](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
 **Probability Theory**
 
