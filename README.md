@@ -7,13 +7,9 @@ This project contains my learning notes in computer science, the notes are power
 Mathematics
 -------------------------
 
-Linear Algebra
-=========================
+**Linear Algebra**
 
-> Open Course: Linear Algebra
-
-> Book: Linear Algebra
-
+> Open Course: Linear Algebra (MIT - 18.06)
 
 * [Linear Algebra (MIT - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 * Probability Theory
