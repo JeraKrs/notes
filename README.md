@@ -24,7 +24,8 @@ This project contains my learning notes in computer science, the notes are power
 	* [Git](#git)
 	* Vim - TODO
 * System Design
-	* []
+	* [High Performance Computing](#high-performance-computing)
+	* [Server Software](#server-software)
 <!-- GFM-TOC -->
 
 ------------------------------------------------------------
@@ -42,7 +43,7 @@ Python
 Computer Networks
 --------------------------------------
 
-**Book: Computer Networking A Top-Down Approach**
+*Book: Computer Networking A Top-Down Approach*
 
 > * Publisher: China Machine Press
 > * ISBN: 9787111453789
@@ -53,7 +54,7 @@ Computer Networks
 Operating System
 --------------------------------------
 
-**Open Course: Operating System**
+*Open Course: Operating System*
 
 > * Publisher: Tsinghua University
 > * Course code: THU - 30240243
