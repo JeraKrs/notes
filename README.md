@@ -3,15 +3,14 @@ Learning Notes
 
 This project contains my learning notes in computer science, the notes are powered by `jupyter notebook`, `gitbook`, `sharelatex`.
 
+<!-- GFM-TOC -->
+* Mathematics
+	* Linear Algebra
+<!-- GFM-TOC -->
 
-Mathematics
+
+Linear Algebra
 -------------------------
-
-
-
---------------------------------------
-
-### Linear Algebra
 
 > **Open Course: Linear Algebra**
 > * Publisher: Massachusetts Institute of Technology
@@ -19,9 +18,9 @@ Mathematics
 > * Lecturers: Gilbert Strang
 > * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
---------------------------------------
 
-### Computer Networks
+Computer Networks
+--------------------------------------
 
 > Book: Computer Networking A Top-Down Approach
 > * Publisher: China Machine Press
