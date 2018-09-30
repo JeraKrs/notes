@@ -9,11 +9,14 @@ Mathematics
 
 **Linear Algebra**
 
-> Open Course: Linear Algebra (MIT - 18.06)
+> Open Course: Linear Algebra
+> * Massachusetts Institute of Technology
+> * course code: MIT - 18.06
+> * note link: https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md
 
-* [Linear Algebra (MIT - 18.06)](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
-* Probability Theory
-* Statistics
+**Probability Theory**
+
+**Statistics**
 
 
 Basis of Computer Engineering
