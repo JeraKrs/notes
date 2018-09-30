@@ -7,15 +7,15 @@ This project contains my learning notes in computer science, the notes are power
 Mathematics
 -------------------------
 
-**Linear Algebra**
+#### Linear Algebra
 
-> Open Course: Linear Algebra
+> **Open Course: Linear Algebra**
 > * Publisher: Massachusetts Institute of Technology
 > * Course code: MIT - 18.06
 > * Lecturer: Gilbert Strang
 > * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
 
-> Open Course: Linear Algebra
+> **Open Course: Linear Algebra**
 > * publisher: Massachusetts Institute of Technology
 > * course code: MIT - 18.06
 > * lecturer: Gilbert Strang
