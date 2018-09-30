@@ -5,43 +5,53 @@ This project contains my learning notes in computer science, the notes are power
 
 <!-- GFM-TOC -->
 * Mathematics
-	* Linear Algebra
+	* [Linear Algebra]()
+* Basis of Computer Engineering
 <!-- GFM-TOC -->
 
 
+------------------------------------------------------------
 Linear Algebra
 -------------------------
 
-> **Open Course: Linear Algebra**
-> * Publisher: Massachusetts Institute of Technology
-> * Course code: MIT - 18.06
-> * Lecturers: Gilbert Strang
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+**Open Course: Linear Algebra**
 
+* Publisher: Massachusetts Institute of Technology
+* Course code: MIT - 18.06
+* Lecturers: Gilbert Strang
+* [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Linear%20Algebra/README.md)
+
+------------------------------------------------------------
 
 Computer Networks
 --------------------------------------
 
-> Book: Computer Networking A Top-Down Approach
-> * Publisher: China Machine Press
-> * ISBN: 9787111453789
-> * Authors: James F.Kurose, Keith W.Ross
-> * [Learning notes](https://jerakrs.gitbooks.io/computer_networks/content/)
+**Book: Computer Networking A Top-Down Approach**
 
+* Publisher: China Machine Press
+* ISBN: 9787111453789
+* Authors: James F.Kurose, Keith W.Ross
+* [Learning notes](https://jerakrs.gitbooks.io/computer_networks/content/)
+
+
+Operating System
 --------------------------------------
 
+**Open Course: Operating System**
 
-**Probability Theory**
+* Publisher:
+* Course code:
+* Lecturers:
+* [Learning notes](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
 
-**Statistics**
+------------------------------------------------------------
 
 
-Basis of Computer Engineering
--------------------------
 
+* Probability Theory
+* Statistics
 * Computer Organization (Book - Computer Systems)
 * Fundamentals of Compiling
-* [Operating System (THU - Operating System)](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
 
 
 Databases
