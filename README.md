@@ -7,9 +7,7 @@ This project contains my learning notes in computer science, the notes are power
 * Programming Languages
 	* C/C++ - TODO
 	* Python - TODO
-* Basis of Computer Engineering
-	* [Computer Networks](#computer-networks)
-	* [Operating System](#operating-system)
+* Basis of Computer Engineering: [Computer Networks](#computer-networks); [Operating System](#operating-system)
 * Databases
 	* MongoDB - TODO
 	* MySQL - SUSPENDED
@@ -23,9 +21,7 @@ This project contains my learning notes in computer science, the notes are power
 * Development Tools
 	* [Git](#git)
 	* Vim - TODO
-* System Design
-	* [High Performance Computing](#high-performance-computing)
-	* [Server Software](#server-software)
+* System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software)
 <!-- GFM-TOC -->
 
 ------------------------------------------------------------
@@ -57,7 +53,7 @@ Operating System
 *Open Course: Operating System*
 
 > * Publisher: Tsinghua University
-> * Course code: THU - 30240243
+> * Course code: THU - 30240243X
 > * Lecturers: Xiang Yong, Chen Yu
 > * [Learning notes](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
 
