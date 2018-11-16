@@ -30,7 +30,7 @@ This unit will explore the techniques and methodologies developed within Artific
 
 ## Notes
 
-* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/EMATM1120_Lecture_Notes.pdf)
+* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/src/Uncertainty%20Modelling%20for%20Intelligent%20Systems/EMATM1120_Lecture_Notes.pdf)
 
 
 ## Materials

@@ -5,17 +5,10 @@ This project contains my learning notes in computer science, the notes are power
 
 <!-- GFM-TOC -->
 * Programming Languages: C/C++; Python.
-* Basis of Computer Engineering: [Computer Networks](#computer-networks); [Operating System](#operating-system)
-* Databases
-	* MongoDB - TODO
-	* MySQL - SUSPENDED
-	* Redis - TODO
-* Mathematics
-	* [Linear Algebra](#linear-algebra)
-	* Probability Theory - TODO
-* Data Science
-	* [Machine Learning](#machine-learning)
-	* Statistics - TODO
+* Basis of Computer Engineering: [Computer Networks](#computer-networks); [Operating System](#operating-system).
+* Databases: MongoDB; MySQL; Redis.
+* Mathematics: [Linear Algebra](#linear-algebra); Probability Theory.
+* Data Science: [Machine Learning](#machine-learning); Statistics.
 * Development Tools: [Git](#git); Vim.
 * System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software).
 <!-- GFM-TOC -->
@@ -112,7 +105,7 @@ Machine Learning
 > * Publisher: Stanford University
 > * Course code: Stanford - Machine Learning
 > * Lecturers: Andrew Ng
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/Machine%20Learning/README.md)
+> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Machine%20Learning/README.md)
 
 
 *Required Course: Uncertainty Modelling for Intelligent Systems*
@@ -120,7 +113,7 @@ Machine Learning
 > * Publisher: University of Bristol
 > * Course code: UoB - EMATM1120
 > * Lecturers: Jonathan Lawry
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
+> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
 
 
 Statistics
