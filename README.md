@@ -4,9 +4,7 @@ Learning Notes
 This project contains my learning notes in computer science, the notes are powered by `jupyter notebook`, `gitbook`, `sharelatex`.
 
 <!-- GFM-TOC -->
-* Programming Languages
-	* C/C++ - TODO
-	* Python - TODO
+* Programming Languages: C/C++; Python.
 * Basis of Computer Engineering: [Computer Networks](#computer-networks); [Operating System](#operating-system)
 * Databases
 	* MongoDB - TODO
@@ -18,10 +16,8 @@ This project contains my learning notes in computer science, the notes are power
 * Data Science
 	* [Machine Learning](#machine-learning)
 	* Statistics - TODO
-* Development Tools
-	* [Git](#git)
-	* Vim - TODO
-* System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software)
+* Development Tools: [Git](#git); Vim.
+* System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software).
 <!-- GFM-TOC -->
 
 ------------------------------------------------------------
@@ -55,7 +51,7 @@ Operating System
 > * Publisher: Tsinghua University
 > * Course code: THU - 30240243X
 > * Lecturers: Xiang Yong, Chen Yu
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/Operating%20System/README.md)
+> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Operating%20System/README.md)
 
 
 Computer Organization
