@@ -28,9 +28,9 @@
 
 ## Notes
 
-* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/Server%20Software/COMSM2001_Lecture_Notes.pdf)
-* [Assignment01 Report](https://github.com/JeraKrs/notes/blob/master/Server%20Software/Assignment01/report.txt)
-* [Assignment02 Report](https://github.com/JeraKrs/notes/blob/master/Server%20Software/Assignment02/report.pdf)
+* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/COMSM2001_Lecture_Notes.pdf)
+* [Assignment01 Report](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/Assignment01/report.txt)
+* [Assignment02 Report](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/Assignment02/report.pdf)
 
 ## Materials
 
