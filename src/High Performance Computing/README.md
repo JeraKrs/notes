@@ -50,9 +50,9 @@
 
 ### Notes
 
-* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/COMS30005_Lecture_Notes.pdf)
-* [Assignment01 Report](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Assignment01/report.pdf)
-* [Assignment02 Report](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Assignment02/report.pdf)
+* [Lecture Notes](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/COMS30005_Lecture_Notes.pdf)
+* [Assignment01 Report](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Assignment01/report.pdf)
+* [Assignment02 Report](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/An%20Introduction%20to%20High%20Performance%20Computing/Assignment02/report.pdf)
 
 ### Materials
 
@@ -79,8 +79,8 @@
 
 ### Notes
 
-* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/COMS30006_Lecture_Notes.pdf)
-* [Assignment Report](https://github.com/JeraKrs/notes/blob/master/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/Assignment/report.pdf)
+* [Lecture Notes](https://github.com/JeraKrs/notes/blob/master/src/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/COMS30006_Lecture_Notes.pdf)
+* [Assignment Report](https://github.com/JeraKrs/notes/blob/master/src/High%20Performance%20Computing/Advanced%20High%20Performance%20Computing/Assignment/report.pdf)
 
 ### Materials
 
