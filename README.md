@@ -147,6 +147,7 @@ Git
 Vim
 -------------------------
 
+
 ------------------------------------------------------------
 
 High Performance Computing
@@ -157,7 +158,7 @@ High Performance Computing
 > * Publisher: University of Bristol
 > * Course code: UoB - COMS30005 & COMS30006
 > * Lecturers: Simon McIntosh-Smith, Gethin Williams
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/High%20Performance%20Computing/README.md)
+> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/README.md)
 
 
 Server Software
@@ -168,4 +169,4 @@ Server Software
 > * Publisher: University of Bristol
 > * Course code: UoB - COMSM2001
 > * Lecturers: Steve Gregory
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/Server%20Software/README.md)
+> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/README.md)
