@@ -4,23 +4,14 @@ Learning Notes
 This project contains my learning notes in computer science, the notes are powered by `jupyter notebook`, `gitbook`, `sharelatex`.
 
 <!-- GFM-TOC -->
-* Programming Languages: C/C++; Python.
 * Basis of Computer Engineering: [Computer Networks](#computer-networks); [Operating System](#operating-system).
-* Databases: MongoDB; MySQL; Redis.
-* Mathematics: [Linear Algebra](#linear-algebra); Probability Theory.
 * Data Science: [Machine Learning](#machine-learning); Statistics.
+* Databases: MongoDB; MySQL; Redis.
 * Development Tools: [Git](#git); Vim.
+* Mathematics: [Linear Algebra](#linear-algebra); Probability Theory.
+* Programming Languages: C/C++; Python.
 * System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software).
 <!-- GFM-TOC -->
-
-------------------------------------------------------------
-
-C/C++
--------------------------
-
-
-Python
--------------------------
 
 
 ------------------------------------------------------------
@@ -59,44 +50,6 @@ Fundamentals of Compiling
 
 ------------------------------------------------------------
 
-MongoDB
---------------------------------------
-
-Book - MongoDB: The Definitive Guide
-
-
-MySQL
---------------------------------------
-
-[Book - High Performance MySQL](https://jerakrs.gitbooks.io/mysql/content/) - SUSPENDED
-
-
-Redis
---------------------------------------
-
-Book - The Design and Implementation of Redis
-
-
-------------------------------------------------------------
-
-Linear Algebra
--------------------------
-
-*Open Course: Linear Algebra*
-
-> * Publisher: Massachusetts Institute of Technology
-> * Course code: MIT - 18.06
-> * Lecturers: Gilbert Strang
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/Linear%20Algebra/README.md)
-
-
-Probability Theory
---------------------------------------
-
-
-------------------------------------------------------------
-
-
 Machine Learning
 --------------------------------------
 
@@ -122,6 +75,26 @@ Statistics
 
 ------------------------------------------------------------
 
+MongoDB
+--------------------------------------
+
+Book - MongoDB: The Definitive Guide
+
+
+MySQL
+--------------------------------------
+
+[Book - High Performance MySQL](https://jerakrs.gitbooks.io/mysql/content/) - SUSPENDED
+
+
+Redis
+--------------------------------------
+
+Book - The Design and Implementation of Redis
+
+
+------------------------------------------------------------
+
 Git
 -------------------------
 
@@ -134,6 +107,33 @@ Git
 
 
 Vim
+-------------------------
+
+
+------------------------------------------------------------
+
+Linear Algebra
+-------------------------
+
+*Open Course: Linear Algebra*
+
+> * Publisher: Massachusetts Institute of Technology
+> * Course code: MIT - 18.06
+> * Lecturers: Gilbert Strang
+> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/Linear%20Algebra/README.md)
+
+
+Probability Theory
+--------------------------------------
+
+
+------------------------------------------------------------
+
+C/C++
+-------------------------
+
+
+Python
 -------------------------
 
 
