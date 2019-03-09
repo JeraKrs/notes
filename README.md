@@ -29,22 +29,18 @@ Computer Networks
 Operating System
 --------------------------------------
 
-*Open Course: Operating System*
+*Open Course: [Operating System](https://github.com/JeraKrs/notes/blob/master/src/Operating%20System/README.md)*
 
 > * Publisher: Tsinghua University
 > * Course code: THU - 30240243X
 > * Lecturers: Xiang Yong, Chen Yu
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Operating%20System/README.md)
 
 
 Computer Organization
 --------------------------------------
 
-Book - Computer Systems
+Book - Computer Systems - TODO
 
-
-Fundamentals of Compiling
---------------------------------------
 
 
 ------------------------------------------------------------
@@ -52,24 +48,17 @@ Fundamentals of Compiling
 Machine Learning
 --------------------------------------
 
-*Open Course: Machine Learning*
+*Open Course: [Machine Learning](https://github.com/JeraKrs/notes/blob/master/src/Machine%20Learning/README.md)*
 
 > * Publisher: Stanford University
 > * Course code: Stanford - Machine Learning
 > * Lecturers: Andrew Ng
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Machine%20Learning/README.md)
 
-
-*Required Course: Uncertainty Modelling for Intelligent Systems*
+*Required Course: [Uncertainty Modelling for Intelligent Systems](https://github.com/JeraKrs/Notes/blob/master/src/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - EMATM1120
 > * Lecturers: Jonathan Lawry
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/Uncertainty%20Modelling%20for%20Intelligent%20Systems/README.md)
-
-
-Statistics
---------------------------------------
 
 
 ------------------------------------------------------------
@@ -77,7 +66,7 @@ Statistics
 MongoDB
 --------------------------------------
 
-Book - MongoDB: The Definitive Guide
+Book - MongoDB: The Definitive Guide - TODO
 
 
 MySQL
@@ -89,7 +78,7 @@ MySQL
 Redis
 --------------------------------------
 
-Book - The Design and Implementation of Redis
+Book - The Design and Implementation of Redis - TODO
 
 
 ------------------------------------------------------------
@@ -105,35 +94,18 @@ Git
 > * [Learning notes](https://jerakrs.gitbooks.io/git/content/)
 
 
-Vim
--------------------------
-
 
 ------------------------------------------------------------
 
 Linear Algebra
 -------------------------
 
-*Open Course: Linear Algebra*
+*Open Course: [Linear Algebra](https://github.com/JeraKrs/Notes/blob/master/src/Linear%20Algebra/README.md)*
 
 > * Publisher: Massachusetts Institute of Technology
 > * Course code: MIT - 18.06
 > * Lecturers: Gilbert Strang
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/Linear%20Algebra/README.md)
 
-
-Probability Theory
---------------------------------------
-
-
-------------------------------------------------------------
-
-C/C++
--------------------------
-
-
-Python
--------------------------
 
 
 ------------------------------------------------------------
@@ -141,20 +113,18 @@ Python
 High Performance Computing
 -------------------------
 
-*Required Course: High Performance Computing*
+*Required Course: [High Performance Computing](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/README.md)*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - COMS30005 & COMS30006
 > * Lecturers: Simon McIntosh-Smith, Gethin Williams
-> * [Learning notes](https://github.com/JeraKrs/Notes/blob/master/src/High%20Performance%20Computing/README.md)
 
 
 Server Software
 -------------------------
 
-*Required Course: Server Software*
+*Required Course: [Server Software](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/README.md)*
 
 > * Publisher: University of Bristol
 > * Course code: UoB - COMSM2001
 > * Lecturers: Steve Gregory
-> * [Learning notes](https://github.com/JeraKrs/notes/blob/master/src/Server%20Software/README.md)
