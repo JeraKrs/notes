@@ -19,12 +19,11 @@ This project contains my learning notes in computer science, the notes are power
 Computer Networks
 --------------------------------------
 
-*Book: Computer Networking A Top-Down Approach*
+*Book: [Computer Networking A Top-Down Approach](https://jerakrs.gitbooks.io/computer_networks/content/)*
 
 > * Publisher: China Machine Press
 > * ISBN: 9787111453789
 > * Authors: James F.Kurose, Keith W.Ross
-> * [Learning notes](https://jerakrs.gitbooks.io/computer_networks/content/)
 
 
 Operating System
