@@ -19,7 +19,7 @@ This project contains my learning notes in computer science, the notes are power
 Computer Networks
 --------------------------------------
 
-*![](https://img.shields.io/badge/-Book-brightgreen.svg): Computer Networking A Top-Down Approach*
+*Book: Computer Networking A Top-Down Approach*
 
 > * Publisher: China Machine Press
 > * ISBN: 9787111453789
