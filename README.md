@@ -86,12 +86,11 @@ Book - The Design and Implementation of Redis - TODO
 Git
 -------------------------
 
-*Book: Pro Git*
+*Book: [Pro Git](https://jerakrs.gitbooks.io/git/content/)*
 
 > * Publisher: Apress
 > * ISBN: 9781484200773
 > * Authors: Scott Chacon, Ben Straub
-> * [Learning notes](https://jerakrs.gitbooks.io/git/content/)
 
 
 
