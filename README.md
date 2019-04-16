@@ -19,7 +19,7 @@ This project contains my learning notes in computer science, the notes are power
 Computer Networks
 --------------------------------------
 
-*Book: [Computer Networking A Top-Down Approach](https://jerakrs.gitbooks.io/computer_networks/content/)*
+*Book: [Computer Networking A Top-Down Approach](https://app.gitbook.com/@jerakrs/s/computer_networks/)*
 
 > * Publisher: China Machine Press
 > * ISBN: 9787111453789
@@ -86,7 +86,7 @@ Book - The Design and Implementation of Redis - TODO
 Git
 -------------------------
 
-*Book: [Pro Git](https://jerakrs.gitbooks.io/git/content/)*
+*Book: [Pro Git](https://app.gitbook.com/@jerakrs/s/git/)*
 
 > * Publisher: Apress
 > * ISBN: 9781484200773
