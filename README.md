@@ -9,7 +9,7 @@ This project contains my learning notes in computer science, the notes are power
 * Databases: MongoDB; MySQL; Redis.
 * Development Tools: [Git](#git); Vim.
 * Mathematics: [Linear Algebra](#linear-algebra); Probability Theory.
-* Programming Languages: C/C++; Python.
+* Programming Languages: [C/C++](#C/C++); Python.
 * System Design: [High Performance Computing](#high-performance-computing); [Server Software](#server-software).
 <!-- GFM-TOC -->
 
@@ -104,6 +104,19 @@ Linear Algebra
 > * Publisher: Massachusetts Institute of Technology
 > * Course code: MIT - 18.06
 > * Lecturers: Gilbert Strang
+
+
+
+------------------------------------------------------------
+
+C/C++
+-------------------------
+
+*Book: [Effective C++]()
+
+> * Publisher: Publishing House Electronics Industry
+> * ISBN: 9787121123320
+> * Authors: Scott Meyers
 
 
 
