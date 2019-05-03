@@ -112,7 +112,7 @@ Linear Algebra
 C/C++
 -------------------------
 
-*Book: [Effective C++](https://app.gitbook.com/@jerakrs/s/effective_c/)*
+*Book: [Effective C++](https://jerakrs.gitbook.io/effective_c/)*
 
 > * Publisher: Publishing House Electronics Industry
 > * ISBN: 9787121123320
