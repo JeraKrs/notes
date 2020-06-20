@@ -112,6 +112,12 @@ Linear Algebra
 C/C++
 -------------------------
 
+*Book: [C++ Primer](https://www.kancloud.cn/jerakrs/c-primer)*
+
+> * Publisher: Publishing House Electronics Industry
+> * ISBN: 9787121200380
+> * Authors: Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
+
 *Book: [Effective C++](https://www.kancloud.cn/jerakrs/effective-c)*
 
 > * Publisher: Publishing House Electronics Industry
