@@ -125,6 +125,11 @@ C/C++
 > * Authors: Scott Meyers
 
 
+*Book: [The Annotated STL Sources](https://www.kancloud.cn/jerakrs/stl-source)*
+
+> * Publisher: Huazhong University of Science and Technology Press
+> * ISBN: 9787560926995
+> * Authors: Hou Jie
 
 ------------------------------------------------------------
 
