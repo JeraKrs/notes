@@ -13,3 +13,9 @@
 [submodule "kanyun/stl-source"]
 	path = kanyun/stl-source
 	url = git@git.kancloud.cn:jerakrs/stl-source.git
+[submodule "kanyun/c-cookbook"]
+	path = kanyun/c-cookbook
+	url = git@git.kancloud.cn:jerakrs/c-cookbook.git
+[submodule "kanyun/introduction-to-algorithm"]
+	path = kanyun/introduction-to-algorithm
+	url = git@git.kancloud.cn:jerakrs/introduction-to-algorithm.git
