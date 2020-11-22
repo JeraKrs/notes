@@ -1,0 +1,3 @@
+[submodule "kanyun/pro-git"]
+	path = kanyun/pro-git
+	url = git@git.kancloud.cn:jerakrs/pro-git.git
