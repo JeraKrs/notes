@@ -19,3 +19,6 @@
 [submodule "kanyun/introduction-to-algorithm"]
 	path = kanyun/introduction-to-algorithm
 	url = git@git.kancloud.cn:jerakrs/introduction-to-algorithm.git
+[submodule "kanyun/computational_advertising"]
+	path = kanyun/computational_advertising
+	url = git@git.kancloud.cn:jerakrs/computational_advertising.git
