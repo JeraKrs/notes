@@ -1,3 +1,15 @@
 [submodule "kanyun/pro-git"]
 	path = kanyun/pro-git
 	url = git@git.kancloud.cn:jerakrs/pro-git.git
+[submodule "kanyun/computer-networks"]
+	path = kanyun/computer-networks
+	url = git@git.kancloud.cn:jerakrs/computer-networks.git
+[submodule "kanyun/effective-c"]
+	path = kanyun/effective-c
+	url = git@git.kancloud.cn:jerakrs/effective-c.git
+[submodule "kanyun/c-primer"]
+	path = kanyun/c-primer
+	url = git@git.kancloud.cn:jerakrs/c-primer.git
+[submodule "kanyun/stl-source"]
+	path = kanyun/stl-source
+	url = git@git.kancloud.cn:jerakrs/stl-source.git
